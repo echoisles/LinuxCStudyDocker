@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Remote GDB Server (0aac1c4b-0311-4c2e-b283-d56478162a41)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote GDB Server (56a7e4db-463c-4bb5-a44d-ca3acbda846f)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote GDB Server (cb96ff88-f805-4468-bfca-570c66d8a1e1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="linuxC (36346126-1c7d-4839-9d62-34e5779027a7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.EIWH1hrlPQ" local="$PROJECT_DIR$/workplace/linuxC" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/workplace/linuxC/cmake-build-debug-linuxc" />
+            <excludedPath local="true" path="$PROJECT_DIR$/workplace/algorithm/cmake-build-debug-linuxc" />
+            <excludedPath local="true" path="$PROJECT_DIR$/workplace/linuxC/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/workplace/linuxC/cmake-build-debug-linuxc" />
+            <excludedPath local="true" path="$PROJECT_DIR$/workplace/C++/cmake-build-debug-linuxc" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

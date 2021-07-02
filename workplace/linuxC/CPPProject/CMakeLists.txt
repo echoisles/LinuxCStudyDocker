@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.7)
+project(CPPProject)
+set(CMAKE_CXX_STANDARD 11)
+## 开启多线程支持
+set(THREADS_PREFER_PTHREAD_FLAG ON)
+find_package(Threads REQUIRED)
+add_executable(threadsDemo threads.cpp)
+if(TARGET Threads::Threads)
+    target_link_libraries(threadsDemo PRIVATE Threads::Threads)
+endif()
